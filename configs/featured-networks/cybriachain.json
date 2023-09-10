@@ -1,0 +1,14 @@
+[
+  {
+		"title": "Mainnet [soon]",
+		"url": "https://www.cybria.io",
+		"group": "Mainnets"
+	},
+	{
+		"title": "Official Testnet Explorer",
+		"url": "https://explorer.cybascan.io",
+		"group": "Testnets",
+		"icon": "",
+		"invertIconInDarkMode": true
+	}
+]

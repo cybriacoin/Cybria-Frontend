@@ -1,0 +1,67 @@
+[
+    {
+        "title": "Developers",
+        "links": [
+            {
+                "text": "Documentation",
+                "url": "https://docs.cybria.io/"
+            },
+            {
+                "text": "GitHub",
+                "url": "https://github.com/cybriacoin"
+            }
+        ]
+    },
+    {
+        "title": "Community",
+        "links": [
+            {
+                "text": "Twitter",
+                "url": "https://twitter.com/cybriacoin"
+            },
+            {
+                "text": "Telegram",
+                "url": "https://t.me/cybriacoin"
+            },
+            {
+                "text": "Medium",
+                "url": "https://medium.com/@cybrialayer2"
+            }
+        ]
+    },
+    {
+        "title": "Use Cybria",
+        "links": [
+            {
+                "text": "Stake",
+                "url": "https://stake.cybria.io/"
+            },
+            {
+                "text": "Swap",
+                "url": "https://swap.cybria.io/#/swap?outputCurrency=0x1063181dc986F76F7eA2Dd109e16fc596d0f522A&chain=mainnet"
+            },
+            {
+                "text": "Bridge[Soon]",
+                "url": "https://www.cybria.io/#Features"
+            }
+        ]
+    },
+    {
+        "title": "About Cybria",
+        "links": [
+            {
+                "text": "About",
+                "url": "https://www.cybria.io/"
+            }
+        ]
+    },
+    {
+        "title": "About Cybria",
+        "links": [
+            {
+                "text": "About",
+                "url": "https://www.cybria.io/"
+            }
+        ]
+    }
+]
