@@ -8,7 +8,7 @@
 		"title": "Official Testnet Explorer",
 		"url": "https://explorer.cybascan.io",
 		"group": "Testnets",
-		"icon": "",
+		"icon": "https://raw.githubusercontent.com/Cybria-Chain/frontend-configs/main/configs/network-icons/cybria.svg",
 		"invertIconInDarkMode": true
 	}
 ]
